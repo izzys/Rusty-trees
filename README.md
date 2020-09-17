@@ -2,4 +2,4 @@
 A Rust library for tree data structures and algorithms
 
 # Wiki
-See the [Wiki] (/wiki/)
+See the https://github.com/izzys/Rusty-trees/wiki
