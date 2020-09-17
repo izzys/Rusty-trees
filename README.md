@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/izzys/Rusty-trees/blob/master/rusty-tree.jpg)
 # Rusty-trees
 A Rust library for tree data structures and algorithms.
 
@@ -5,6 +7,5 @@ A Rust library for tree data structures and algorithms.
 [Wiki page](https://github.com/izzys/Rusty-trees/wiki)
 
 
-![alt text](https://github.com/izzys/Rusty-trees/blob/master/rusty-tree.jpg)
 
 
